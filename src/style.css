@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap");
+html {
+  font-size: 62.5%;
+}
+body {
+  background-image: url(./Image/bg-repeat.jpg);
+  background-size: 100% 100%;
+}
+.containe {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 73px;
+  width: 100%;
+  height: 100vh;
+  font-family: "Roboto", sans-serif;
+}
+
+.containe .information .title-information {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 900;
+  margin-bottom: 11px;
+}
+.containe .information p {
+  font-size: 15px;
+  color: #fff;
+  font-weight: 400;
+  width: 300px;
+}
+.containe .container-formulario {
+  display: flex;
+  flex-direction: column;
+  width: 340px;
+  height: 378px;
+  background-color: #fff;
+  padding: 20px;
+  position: relative;
+}
+
+.containe .container-formulario .formulario li:last-child span {
+  font-size: 15px;
+}
+.containe .container-formulario .formulario li input,
+textarea {
+  padding-left: 9px;
+  width: 298px;
+  height: 35px;
+  border-radius: 5px;
+  border: 1px solid #000;
+  display: list-item;
+  vertical-align: top;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+}
+li {
+  margin-bottom: 14.89px;
+}
+.containe .container-formulario .formulario li .bigtexbox {
+  height: 100px;
+  padding-top: 9px;
+  resize: none;
+}
+.containe .container-formulario #msj-aviso {
+  font-size: 15px;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  margin-bottom: 11px;
+}
+
+.containe .container-formulario #btn-formulario {
+  width: 298px;
+  height: 41px;
+  background-color: #3ccc87;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 700;
+  bottom: 20px;
+  cursor: pointer;
+}
+/* #btn-formulario:hover{
+cursor: pointer;
+} */
+
+.notification {
+  position: absolute;
+  font-size: 9px;
+  font-weight: 400;
+  color: red;
+}
+.containe .container-formulario .formulario .valid {
+  border: 1px solid #00c22b;
+}
