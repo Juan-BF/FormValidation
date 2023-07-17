@@ -26,7 +26,7 @@ Tecnologias Utilizadas:
 
 
 <hr>
-<img src="./src/Image/Screenshot formulario.png" alt="Captura de Pantalla 1" width="50px">
+<img src="./src/Image/Screenshot formulario.png" alt="Captura de Pantalla 1" width="1000px">
 <hr>
 
 ## Instalación
