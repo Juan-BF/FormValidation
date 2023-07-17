@@ -1,21 +1,20 @@
 # PORTUGUES  [Ver en español](#espanhol)
 # Validacao Formulario
 
-He creado la estructura del formulario utilizando elementos HTML como `<form>, <input>, <textarea>, <button>,` etc.
-He agregado clases y atributos para identificar y seleccionar los elementos del formulario en JavaScript.
-He utilizado atributos como `placeholder, name, id, cols, rows,` etc. para proporcionar información y configuraciones a los elementos del formulario.
+Eu criei a estrutura do formulário usando elementos HTML como <form>, <input>, <textarea>, <button>, etc.
+Eu adicionei classes e atributos para identificar e selecionar os elementos do formulário em JavaScript.
+Eu usei atributos como placeholder, name, id, cols, rows, etc. para fornecer informações e configurações aos elementos do formulário.
 
-He aplicado estilos al formulario utilizando reglas CSS para personalizar su apariencia.
-He utilizado selectores de `clase`, de `ID` y otros selectores para seleccionar y aplicar estilos específicos a los elementos del formulario.
+Eu apliquei estilos ao formulário usando regras CSS para personalizar sua aparência.
+Eu usei seletores de classe, de ID e outros seletores para selecionar e aplicar estilos específicos aos elementos do formulário.
 
-He utilizado JavaScript para agregar interactividad al formulario.
-He seleccionado elementos del formulario utilizando métodos como `querySelectorAll, getElementById, getElementsByClassName,` etc.
-He creado funciones para validar los campos del formulario, verificar si tienen valores válidos y mostrar mensajes de alerta según corresponda.
-He asignado eventos como `click,` change, etc. a los elementos del formulario para realizar acciones específicas cuando ocurren esos eventos.
-He utilizado estructuras de control como bucles for para recorrer y manipular los elementos del formulario.
-He actualizado el contenido de los elementos del formulario, como agregar o eliminar texto de los mensajes de alerta.
-Tecnologias Utilizadas:
-
+Eu usei JavaScript para adicionar interatividade ao formulário.
+Eu selecionei elementos do formulário usando métodos como querySelectorAll, getElementById, getElementsByClassName, etc.
+Eu criei funções para validar os campos do formulário, verificar se eles têm valores válidos e exibir mensagens de alerta conforme necessário.
+Eu atribuí eventos como click, change, etc. aos elementos do formulário para realizar ações específicas quando esses eventos ocorrem.
+Eu usei estruturas de controle como loops for para percorrer e manipular os elementos do formulário.
+Eu atualizei o conteúdo dos elementos do formulário, como adicionar ou remover texto das mensagens de alerta.
+Tecnologias utilizadas:
  
 - HTML5
 <br>
