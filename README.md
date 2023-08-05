@@ -1,7 +1,7 @@
 # PORTUGUES  [Ver en español](#espanhol)
 # Validacao Formulario
 
-Eu criei a estrutura do formulário usando elementos HTML como <form>, <input>, <textarea>, <button>, etc.
+Eu Criei a estrutura do formulário usando elementos HTML como <form>, <input>, <textarea>, <button>, etc.
 Eu adicionei classes e atributos para identificar e selecionar os elementos do formulário em JavaScript.
 Eu usei atributos como placeholder, name, id, cols, rows, etc. para fornecer informações e configurações aos elementos do formulário.
 
